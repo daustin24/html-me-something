@@ -6,5 +6,25 @@ body{
     margin-left: 100px;
 
     }
+h1{
+    background-color: yellow;
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 
-.aboutMe{font-family: Arial;}
+}
+div {
+    padding-top: 70px;
+    padding-right:70px;
+    padding-left:70px;
+    padding-bottom: 70px;
+}
+
+.aboutMe{
+    font-size: larger ;
+}
+
+#aboutMe{font-family: Arial;}
